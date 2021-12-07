@@ -25,7 +25,7 @@
     "@sailshq/lodash": "^3.10.2",
     "machine": "^15.0.0-21",
     "pg": "8.3.0",
-    "waterline-sql-builder": "^2.0.0"
+    "waterline-sql-builder": "git://github.com/SimonLandeholm/waterline-sql-builder.git"
   },
   "devDependencies": {
     "eslint": "3.5.0",
